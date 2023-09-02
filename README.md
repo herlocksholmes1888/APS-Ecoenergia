@@ -5,7 +5,7 @@ Ecoenergia é uma página web, criada para informar e conscientizar a populaçã
 > Projeto criado como Atividade Prática Supervisionada do 1º semestre de Ciência da Computação
 
 ## Realizadores:
-Andrey Souza
-Cristopher Martins
-Luisa Lopes
+Andrey Souza\
+Cristopher Martins\
+Luisa Lopes\
 Vinicius Collozzo
